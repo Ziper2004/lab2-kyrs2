@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8QVbBzE2VbBKALquWflCMvhQeGXW2YQR0m94yEouBNYZaL8WD5aEcCuQkqZhGqwcy0QCcs9P3Pd7ZDD5vISXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\XE\\Desktop\\MAX_STOPWATCHES\\StopWatch\\StopWatch\\StopWatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\XE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

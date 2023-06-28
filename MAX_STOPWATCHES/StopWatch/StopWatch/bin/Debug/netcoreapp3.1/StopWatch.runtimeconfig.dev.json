@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\XE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\XE\\.nuget\\packages",
+      "D:\\Програми\\Visual Stydio\\SDKs\\NuGetPackages"
+    ]
+  }
+}

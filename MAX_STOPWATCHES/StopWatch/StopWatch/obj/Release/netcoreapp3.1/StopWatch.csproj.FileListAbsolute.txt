@@ -1,0 +1,14 @@
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.exe
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.deps.json
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.runtimeconfig.json
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.runtimeconfig.dev.json
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.dll
+D:\Project\Docker\StopWatch\StopWatch\bin\Release\netcoreapp3.1\StopWatch.pdb
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.csproj.AssemblyReference.cache
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.AssemblyInfoInputs.cache
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.AssemblyInfo.cs
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.csproj.CoreCompileInputs.cache
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.dll
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.pdb
+D:\Project\Docker\StopWatch\StopWatch\obj\Release\netcoreapp3.1\StopWatch.genruntimeconfig.cache
